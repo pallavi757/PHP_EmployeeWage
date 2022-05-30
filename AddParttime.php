@@ -4,7 +4,7 @@ then calculate employee wage*/
 echo"Welcome to Employee Wage Computation....\n";
 //getting random 0 ,1 and 2
 $check=rand(0,2);
-//Declare two constant varible is_PartTime and is_FullTime
+//Declare two constant is_PartTime and is_FullTime
 $is_PartTime=1;
 $is_FullTime=2;
 $empRatePerHrs=20;
